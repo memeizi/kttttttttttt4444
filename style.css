@@ -1,0 +1,16 @@
+.section{
+    display: flex;
+    justify-content: center;
+}
+.blocki{
+    background-color:#847631;
+    max-width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.bock{
+    width: 230px;
+    height: 200px;
+    margin-right: 20px;
+}
